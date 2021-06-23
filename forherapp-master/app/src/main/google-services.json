@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937009144183",
+    "firebase_url": "https://for-her-1e2d1.firebaseio.com",
+    "project_id": "for-her-1e2d1",
+    "storage_bucket": "for-her-1e2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937009144183:android:75e8cdd71da704481bc172",
+        "android_client_info": {
+          "package_name": "com.example.forher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937009144183-jfs5n8rkbqqvnqrm18b00ag2dnjcvgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsGqu_DPZQcWAMSMSYEpfNkr9fsqIlDho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937009144183-jfs5n8rkbqqvnqrm18b00ag2dnjcvgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

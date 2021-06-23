@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForHer</string>
+    <string name="title_activity_geolocation">Map</string>
+    <string name="sign_in">Sign in</string>
+</resources>
